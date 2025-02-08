@@ -1,4 +1,4 @@
-## Previsão de Preços de Aluguéis - Indicium  
+## Previsão de Preços de Aluguéis - Desafio Técnico Indicium  
 
 Este repositório contém o projeto de previsão de preços de aluguéis em Nova York, desenvolvido como parte do desafio técnico da Indicium.  
 
